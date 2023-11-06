@@ -7,9 +7,10 @@
 // Метод updatePlayTime(hours) повинен приймати число (кількість годин) у параметр hours та збільшити на нього значення властивості playTime. Нічого не повертає.
 // Метод getInfo() має повертати рядок формату <Username> has <amount> active hours!, де <Username> — це ім'я профілю, а <amount> — кількість ігрових годин.
 
-function name(params) {
-   
-}
+const profile = {
+    username: "Jacob",
+    playTime: 300,
+};
 
 
 console.log(profile.getInfo()); // "Jacob has 300 active hours!"
