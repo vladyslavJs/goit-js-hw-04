@@ -1,6 +1,6 @@
-# goit-js-hw-03
+# goit-js-hw-4
 
-Home-work #3
-Arrays
+Home-work #4
+Objects
 
-https://github.com/vladyslavJs/goit-js-hw-03
+https://vladyslavjs.github.io/goit-js-hw-04/
